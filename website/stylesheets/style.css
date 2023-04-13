@@ -2,14 +2,14 @@ p {
     color:#0000ff;
     size: 120px;
     font-size: 20px;
-    border: 1px solid red;
+    /*  border: 1px solid red;*/
 }
 
 h1 {
     color:#0000ff;
     size: 120px;
-    font-size: 20px;
-    border: 1px solid red;
+    font-size: 40px;
+    text-align: center;
 }
 
 li {
@@ -17,3 +17,15 @@ li {
     size: 120px;
     font-size: 20px;
 }
+
+#final{
+    font-style: italic;
+}
+
+/*  CHANGE ALL ELEMENTS
+
+* {
+    color: red;
+}
+
+*/
