@@ -22,6 +22,16 @@ li {
     font-style: italic;
 }
 
+body{
+
+    margin: 0 auto;
+    padding: 0 20px 20px 20px;
+}
+
+html {
+    background-color: #17ed59;
+}
+
 /*  CHANGE ALL ELEMENTS
 
 * {
