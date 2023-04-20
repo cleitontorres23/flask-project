@@ -6,16 +6,19 @@ p {
 }
 
 h1 {
-    color:#0000ff;
     size: 120px;
     font-size: 40px;
     text-align: center;
+    padding: 20px 0;
+    text-shadow: 3px 3px 1px black;
+    color: deepskyblue;
 }
 
 li {
     color:#0000ff;
     size: 120px;
     font-size: 20px;
+    font-family:'Trebuchet MS';
 }
 
 #final{
@@ -26,10 +29,18 @@ body{
 
     margin: 0 auto;
     padding: 0 20px 20px 20px;
+    width: 700px;
+    border: 4px;
+    background-color: aliceblue;
 }
 
 html {
     background-color: #17ed59;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
 }
 
 /*  CHANGE ALL ELEMENTS
